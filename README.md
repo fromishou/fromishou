@@ -1,24 +1,27 @@
 <!-- Header -->
 <div align="center">
 
-# Anna Ishii 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F5A3C7&center=true&vCenter=true&width=600&lines=Bom+te+ver+por+aqui!+%3A%29)](https://git.io/typing-svg)
 
 ### Designer & Desenvolvedora em formação · São Paulo, Brasil
 
 *Pós-graduada em UX Strategy · Cursando Análise e Desenvolvimento de Sistemas*
-
-<details>
-<summary>🇺🇸 English</summary>
 <br>
-
-*Hey, Anna — Designer & Developer in progress · São Paulo, Brazil*
-
 *Postgrad in UX Strategy · Studying Systems Analysis & Development*
 
-</details>
+<br>
+
+[![Email](https://img.shields.io/badge/✉️_Email-2d2d2d?style=for-the-badge&logoColor=f5a3c7)](mailto:seuemail@email.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-2d2d2d?style=for-the-badge&logo=linkedin&logoColor=f5a3c7)](https://linkedin.com/in/@USER)
+[![Instagram](https://img.shields.io/badge/_Instagram-2d2d2d?style=for-the-badge&logo=instagram&logoColor=f5a3c7)](https://instagram.com/@USER)
+[![Discord](https://img.shields.io/badge/_Discord:_@USER-2d2d2d?style=for-the-badge&logo=discord&logoColor=f5a3c7)](https://discord.com/users/@USER)
+[![Figma](https://img.shields.io/badge/_Figma-2d2d2d?style=for-the-badge&logo=figma&logoColor=f5a3c7)](https://figma.com/@USER)
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f5a3c7&height=80&section=header&fontSize=0" width="100%"/>
+
+<br>
 
 ## Quem sou eu? 🐱
 
@@ -40,7 +43,9 @@ Previously worked at **PicPay · CASACOR · and more**
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=f5a3c7&height=2&section=header" width="100%"/>
+
+<br>
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -65,9 +70,9 @@ Previously worked at **PicPay · CASACOR · and more**
 ![Photoshop](https://img.shields.io/badge/Photoshop-2d2d2d?style=for-the-badge&logo=adobephotoshop&logoColor=f5a3c7)
 ![After Effects](https://img.shields.io/badge/After_Effects-2d2d2d?style=for-the-badge&logo=adobeaftereffects&logoColor=f5a3c7)
 
-</details>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=f5a3c7&height=2&section=header" width="100%"/>
 
----
+<br>
 
 ## 📌 Atualmente
 
@@ -90,32 +95,23 @@ Previously worked at **PicPay · CASACOR · and more**
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=f5a3c7&height=2&section=header" width="100%"/>
+
+<br>
 
 ## 💜 Interesses
 
-🐱 Gatos &nbsp;&nbsp; 🎮 Games &nbsp;&nbsp; 🕹️ Pixel Art &nbsp;&nbsp; 🎨 Design Visual &nbsp;&nbsp; 📐 UX Strategy
+🐱 Gatos &nbsp;&nbsp; 🎮 Games &nbsp;&nbsp; 🕹️ Pixel Art &nbsp;&nbsp; 🎨 Design Visual &nbsp;&nbsp; 📐 UI&UX Strategy
 
 <details>
 <summary>🇺🇸 English</summary>
 <br>
 
-🐱 Cats &nbsp;&nbsp; 🎮 Games &nbsp;&nbsp; 🕹️ Pixel Art &nbsp;&nbsp; 🎨 Visual Design &nbsp;&nbsp; 📐 UX Strategy
+🐱 Cats &nbsp;&nbsp; 🎮 Games &nbsp;&nbsp; 🕹️ Pixel Art &nbsp;&nbsp; 🎨 Visual Design &nbsp;&nbsp; 📐 UI&UX Strategy
 
 </details>
 
----
-
-<div align="center">
-
-*"Design é como funciona. Código é como vive."*
-
-<details>
-<summary>🇺🇸 English</summary>
 <br>
 
-*"Design is how it works. Code is how it lives."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f5a3c7&height=80&section=footer&fontSize=0" width="100%"/>
 
-</details>
-
-</div>
