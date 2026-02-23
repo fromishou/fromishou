@@ -115,16 +115,3 @@ Previously worked at **PicPay · CASACOR · and more**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=f5a3c7&height=80&section=footer&fontSize=0" width="100%"/>
 
-<div align="center">
-
-*"Design é como funciona. Código é como vive."*
-
-<details>
-<summary>🇺🇸 English</summary>
-<br>
-
-*"Design is how it works. Code is how it lives."*
-
-</details>
-
-</div>
