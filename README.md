@@ -12,9 +12,9 @@
 <br>
 
 [![Email](https://img.shields.io/badge/✉️_Email-2d2d2d?style=for-the-badge&logoColor=f5a3c7)](mailto:fromishou@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-2d2d2d?style=for-the-badge&logo=linkedin&logoColor=f5a3c7)](https://linkedin.com/in/@fromishou)
-[![Instagram](https://img.shields.io/badge/_Instagram-2d2d2d?style=for-the-badge&logo=instagram&logoColor=f5a3c7)](https://instagram.com/@fromishou)
-[![Discord](https://img.shields.io/badge/_Discord:_@USER-2d2d2d?style=for-the-badge&logo=discord&logoColor=f5a3c7)](https://discord.com/users/@starosie)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-2d2d2d?style=for-the-badge&logo=linkedin&logoColor=f5a3c7)](https://linkedin.com/in/fromishou)
+[![Instagram](https://img.shields.io/badge/_Instagram-2d2d2d?style=for-the-badge&logo=instagram&logoColor=f5a3c7)](https://instagram.com/fromishou)
+[![Discord](https://img.shields.io/badge/_Discord:_@starosie-2d2d2d?style=for-the-badge&logo=discord&logoColor=f5a3c7)]
 [![Figma](https://img.shields.io/badge/_Figma-2d2d2d?style=for-the-badge&logo=figma&logoColor=f5a3c7)](https://figma.com/@fromishou)
 
 </div>
