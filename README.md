@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-# Olá, eu sou a Leticia 🩷
+# Anna Ishii 
 
 ### Designer & Desenvolvedora em formação · São Paulo, Brasil
 
@@ -11,7 +11,7 @@
 <summary>🇺🇸 English</summary>
 <br>
 
-*Hey, I'm Leticia — Designer & Developer in progress · São Paulo, Brazil*
+*Hey, Anna — Designer & Developer in progress · São Paulo, Brazil*
 
 *Postgrad in UX Strategy · Studying Systems Analysis & Development*
 
