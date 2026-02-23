@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F5A3C7&center=true&vCenter=true&width=600&lines=Bom+te+ver+por+aqui!+%3A%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=20&pause=1000&color=F5A3C7&center=true&vCenter=true&width=600&lines=Bom+te+ver+por+aqui!+%3A%29)](https://git.io/typing-svg)
 
 ### Designer & Desenvolvedora em formação · São Paulo, Brasil
 
@@ -13,9 +13,9 @@
 
 [![Email](https://img.shields.io/badge/✉️_Email-2d2d2d?style=for-the-badge&logoColor=f5a3c7)](mailto:seuemail@email.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-2d2d2d?style=for-the-badge&logo=linkedin&logoColor=f5a3c7)](https://linkedin.com/in/@USER)
-[![Instagram](https://img.shields.io/badge/_Instagram-2d2d2d?style=for-the-badge&logo=instagram&logoColor=f5a3c7)](https://instagram.com/@USER)
-[![Discord](https://img.shields.io/badge/_Discord:_@USER-2d2d2d?style=for-the-badge&logo=discord&logoColor=f5a3c7)](https://discord.com/users/@USER)
-[![Figma](https://img.shields.io/badge/_Figma-2d2d2d?style=for-the-badge&logo=figma&logoColor=f5a3c7)](https://figma.com/@USER)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-2d2d2d?style=for-the-badge&logo=instagram&logoColor=f5a3c7)](https://instagram.com/@USER)
+[![Discord](https://img.shields.io/badge/🎮_Discord:_@USER-2d2d2d?style=for-the-badge&logo=discord&logoColor=f5a3c7)](https://discord.com/users/@USER)
+[![Figma](https://img.shields.io/badge/🎨_Figma-2d2d2d?style=for-the-badge&logo=figma&logoColor=f5a3c7)](https://figma.com/@USER)
 
 </div>
 
@@ -25,7 +25,7 @@
 
 ## Quem sou eu? 🐱
 
-🇧🇷 Com mais de 9 anos de experiência em Design e Marketing, atuo na área de UI & UX há mais de 4 anos. Atualmente, sigo em expansão da minha atuação para o desenvolvimento de sistemas, cursando ADS na faculdade.
+🇧🇷 Com mais de 9 anos de experiência em Design, atuo na área de UI & UX há mais de 4 anos. Atualmente, sigo em expansão da minha atuação para o desenvolvimento de sistemas, cursando ADS na faculdade.
 
 Acredito que os melhores produtos vivem na interseção entre design e tecnologia, e é exatamente aí que quero estar. Quando não estou desenhando ou codando, provavelmente estou jogando 🎮, fazendo pixel art 🕹️ ou sendo julgada pelos meus gatos 🐈‍⬛.
 
@@ -35,7 +35,7 @@ Já trabalhei em **PicPay · CASACOR · e mais**
 <summary>🇺🇸 English</summary>
 <br>
 
-With over 9 years of experience in Design and Marketing, I've been working in UI & UX for more than 4 years. Currently expanding into systems development while studying Systems Analysis & Development at college.
+With over 9 years of experience in Design, I've been working in UI & UX for more than 4 years. Currently expanding into systems development while studying Systems Analysis & Development at college.
 
 I believe great products live at the intersection of design and technology, and that's exactly where I want to be. When I'm not designing or coding, you'll probably find me playing games 🎮, drawing pixel art 🕹️, or being judged by my cats 🐈‍⬛.
 
@@ -115,3 +115,16 @@ Previously worked at **PicPay · CASACOR · and more**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=f5a3c7&height=80&section=footer&fontSize=0" width="100%"/>
 
+<div align="center">
+
+*"Design é como funciona. Código é como vive."*
+
+<details>
+<summary>🇺🇸 English</summary>
+<br>
+
+*"Design is how it works. Code is how it lives."*
+
+</details>
+
+</div>
