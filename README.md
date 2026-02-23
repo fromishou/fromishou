@@ -1,16 +1,121 @@
-## Hi there 👋
+<!-- Header -->
+<div align="center">
 
-<!--
-**fromishou/fromishou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou a Leticia 🩷
 
-Here are some ideas to get you started:
+### Designer & Desenvolvedora em formação · São Paulo, Brasil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Pós-graduada em UX Strategy · Cursando Análise e Desenvolvimento de Sistemas*
+
+<details>
+<summary>🇺🇸 English</summary>
+<br>
+
+*Hey, I'm Leticia — Designer & Developer in progress · São Paulo, Brazil*
+
+*Postgrad in UX Strategy · Studying Systems Analysis & Development*
+
+</details>
+</div>
+
+---
+
+## Quem sou eu? 🐱
+
+🇧🇷 Com mais de 9 anos de experiência em Design e Marketing, atuo na área de UI & UX há mais de 4 anos. Atualmente, sigo em expansão da minha atuação para o desenvolvimento de sistemas, cursando ADS na faculdade.
+
+Acredito que os melhores produtos vivem na interseção entre design e tecnologia, e é exatamente aí que quero estar. Quando não estou desenhando ou codando, provavelmente estou jogando 🎮, fazendo pixel art 🕹️ ou sendo julgada pelos meus gatos 🐈‍⬛.
+
+Já trabalhei em **PicPay · CASACOR · e mais**
+
+<details>
+<summary>🇺🇸 English</summary>
+<br>
+
+With over 9 years of experience in Design and Marketing, I've been working in UI & UX for more than 4 years. Currently expanding into systems development while studying Systems Analysis & Development at college.
+
+I believe great products live at the intersection of design and technology, and that's exactly where I want to be. When I'm not designing or coding, you'll probably find me playing games 🎮, drawing pixel art 🕹️, or being judged by my cats 🐈‍⬛.
+
+Previously worked at **PicPay · CASACOR · and more**
+
+</details>
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+**Front-End**
+
+![HTML5](https://img.shields.io/badge/HTML5-2d2d2d?style=for-the-badge&logo=html5&logoColor=f5a3c7)
+![CSS3](https://img.shields.io/badge/CSS3-2d2d2d?style=for-the-badge&logo=css3&logoColor=f5a3c7)
+![JavaScript](https://img.shields.io/badge/JavaScript-2d2d2d?style=for-the-badge&logo=javascript&logoColor=f5a3c7)
+![React](https://img.shields.io/badge/React-2d2d2d?style=for-the-badge&logo=react&logoColor=f5a3c7)
+
+**Back-End**
+
+![Python](https://img.shields.io/badge/Python-2d2d2d?style=for-the-badge&logo=python&logoColor=f5a3c7)
+![Java](https://img.shields.io/badge/Java-2d2d2d?style=for-the-badge&logo=openjdk&logoColor=f5a3c7)
+![Node.js](https://img.shields.io/badge/Node.js-2d2d2d?style=for-the-badge&logo=nodedotjs&logoColor=f5a3c7)
+![SQL](https://img.shields.io/badge/SQL-2d2d2d?style=for-the-badge&logo=mysql&logoColor=f5a3c7)
+
+**Design**
+
+![Figma](https://img.shields.io/badge/Figma-2d2d2d?style=for-the-badge&logo=figma&logoColor=f5a3c7)
+![Illustrator](https://img.shields.io/badge/Illustrator-2d2d2d?style=for-the-badge&logo=adobeillustrator&logoColor=f5a3c7)
+![Photoshop](https://img.shields.io/badge/Photoshop-2d2d2d?style=for-the-badge&logo=adobephotoshop&logoColor=f5a3c7)
+![After Effects](https://img.shields.io/badge/After_Effects-2d2d2d?style=for-the-badge&logo=adobeaftereffects&logoColor=f5a3c7)
+
+</details>
+
+---
+
+## 📌 Atualmente
+
+```
+🎓  Estudando   →  Análise e Desenvolvimento de Sistemas (ADS)
+💻  Aprendendo  →  Desenvolvimento Front-End
+🎨  Construindo →  Projetos híbridos de Design + Dev
+🐾  Sendo vigiada pelos meus gatos o tempo todo
+```
+
+<details>
+<summary>🇺🇸 English</summary>
+
+```
+🎓  Studying  →  Systems Analysis & Development (ADS)
+💻  Learning  →  Front-End Development
+🎨  Building  →  Design + Dev hybrid projects
+🐾  Being watched by my cats at all times
+```
+
+</details>
+
+---
+
+## 💜 Interesses
+
+🐱 Gatos &nbsp;&nbsp; 🎮 Games &nbsp;&nbsp; 🕹️ Pixel Art &nbsp;&nbsp; 🎨 Design Visual &nbsp;&nbsp; 📐 UX Strategy
+
+<details>
+<summary>🇺🇸 English</summary>
+<br>
+
+🐱 Cats &nbsp;&nbsp; 🎮 Games &nbsp;&nbsp; 🕹️ Pixel Art &nbsp;&nbsp; 🎨 Visual Design &nbsp;&nbsp; 📐 UX Strategy
+
+</details>
+
+---
+
+<div align="center">
+
+*"Design é como funciona. Código é como vive."*
+
+<details>
+<summary>🇺🇸 English</summary>
+<br>
+
+*"Design is how it works. Code is how it lives."*
+
+</details>
+
+</div>
